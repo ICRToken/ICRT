@@ -4,4 +4,4 @@ We are a new Company engaged in the Review of ICO/ITO. We will find ICO/ITO whic
 
 Website Url: https://www.findingico.review/
 
-For more information please read our WhitePaper
+For more information please read our Whitepaper
