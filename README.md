@@ -5,3 +5,5 @@ We are a new Company engaged in the Review of ICO/ITO. We will find ICO/ITO whic
 Website Url: https://www.findingico.review/
 
 For more information please read our Whitepaper
+
+![ICRToken Logo](https://raw.githubusercontent.com/ICRToken/ICRT/master/image/ICRT_256x256.png)
